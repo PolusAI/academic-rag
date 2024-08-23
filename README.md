@@ -21,3 +21,5 @@ The goal of this project is to use AI to evaluate the accuracy of academic paper
 **Nick Schaub**, Associate Director of Artificial Intelligence - I like making custom edge devices for my house
 
 ### Axle Team 3
+
+**Vivian Zheng**, Sophomore studying Computer Science at Stony Brook University
