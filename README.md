@@ -22,3 +22,5 @@ The goal of this project is to use AI to evaluate the accuracy of academic paper
 
 **Camilo Velez**, Data Scientist - I really like mechanical keyboards and the perfect mouse does not exist
 ### Axle Team 3
+
+**Vivian Zheng**, Sophomore studying Computer Science at Stony Brook University
