@@ -19,7 +19,9 @@ The goal of this project is to use AI to evaluate the accuracy of academic paper
 ### Axle Research and Technology
 
 **Nick Schaub**, Associate Director of Artificial Intelligence - I like making custom edge devices for my house
+
 **Camilo Velez**, Data Scientist - I really like mechanical keyboards and the perfect mouse does not exist
 ### Axle Team 3
 **Kushal Chhetri**, CS student at Virginia Tech - I like bouldering and watching video essays.
 
+**Vivian Zheng**, Sophomore studying Computer Science at Stony Brook University
