@@ -22,6 +22,9 @@ The goal of this project is to use AI to evaluate the accuracy of academic paper
 
 **Camilo Velez**, Data Scientist - I really like mechanical keyboards and the perfect mouse does not exist
 ### Axle Team 3
+
+** Ivy Brundege**, CS and Computational Neuroscience student at Virginia Tech - I love to crochet!
+
 **Kushal Chhetri**, CS student at Virginia Tech - I like bouldering and watching video essays.
 
 **Vivian Zheng**, Sophomore studying Computer Science at Stony Brook University
