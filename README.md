@@ -25,3 +25,5 @@ The goal of this project is to use AI to evaluate the accuracy of academic paper
 **Kushal Chhetri**, CS student at Virginia Tech - I like bouldering and watching video essays.
 
 **Vivian Zheng**, Sophomore studying Computer Science at Stony Brook University
+**Nicole Rodriguez**, CIS-Data Analytics senior studying at CUNY Baruch College -My lucky number is 16 & 7.
+
